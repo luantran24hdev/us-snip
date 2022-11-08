@@ -1,13 +1,1 @@
-test
-test2
-test3
-test5
-test6
-test234234234
-e
-d
-f
-d
-3333222
-eeeeee
-213123213
+clean
